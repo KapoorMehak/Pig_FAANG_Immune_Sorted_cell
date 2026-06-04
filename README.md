@@ -10,27 +10,6 @@ Key findings:
 - **Comparative epigenomics** revealing conserved chromatin states between pig and human immune cells
 
 ---
-
-## Pipeline Overview
-
-```
-1_read_processing
-       ↓
-2_TAD_prediction
-       ↓
-3_chromatin_state_prediction
-       ↓
-4_enhancer_target_prediction
-       ↓
-5_identify_cell_specific_REs
-       ↓
-6_superEnhancer_prediction
-       ↓
-7_GWAS_eQTL_integration
-       ↓
-8_comparative_epigenomics_analyses
-```
----
 ## Directory Structure
 
 | Folder | Description |
