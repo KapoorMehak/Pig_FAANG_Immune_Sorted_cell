@@ -1,16 +1,16 @@
 # Porcine Immune Cell Epigenomic Atlas
 
 A comprehensive pipeline for epigenomic atlas of porcine immune cells, integrating 126 epigenetic datasets across eight sorted immune cell populations.
-
-## Background
-Understanding porcine cellular immune mechanisms is essential for optimizing animal production and establishing pigs as biomedical models for human disease. This pipeline generates and integrates ChIP-seq (histone modifications), ATAC-seq, and DNA methylation data to characterize the regulatory landscape of porcine immune cells at high resolution.
+This study presents a comprehensive epigenomic characterization of the regulatory elements controlling gene expression within major immune cell types circulating in healthy pigs. By integrating 126 epigenomic datasets across eight sorted immune cell populations, we provide a detailed catalogue of predicted chromatin states and cell-type-specific regulatory elements integrated using ChIP-seq (histone modifications), ATAC-seq, and DNA methylation data to characterize the regulatory landscape of porcine immune cells at high resolution.This work directly contributes to using genomic data to describe and improve phenomics in agriculture and extends the value of the domestic pig as a model for human immunity.
 
 Key findings:
 - Identification of **15 chromatin states** across immune cell types
 - Identification of **cell-type-specific regulatory elements (csREs)**
-- Prediction of **870 cell-specific super-enhancers** enriched for lineage-defining transcription factor motifs
+- Prediction of **870 celltype-specific super-enhancers** enriched for lineage-defining transcription factor motifs
 - Integration with **PigGTEx eQTL** data and immune capacity trait GWAS variants
 - **Comparative epigenomics** revealing conserved chromatin states between pig and human immune cells
+
+---
 
 ## Pipeline Overview
 
@@ -31,7 +31,7 @@ Key findings:
        ↓
 8_comparative_epigenomics_analyses
 ```
-
+---
 ## Directory Structure
 
 | Folder | Description |
@@ -49,29 +49,20 @@ Key findings:
 
 ## Data
 
-**Species:** *Sus scrofa* (pig) — Reference genome: Sscrofa10.6
+**Species:** *Sus scrofa* (pig) — Reference genome: Sscrofa11.1
 
 **Cell populations:** 8 sorted immune cell populations
 
 **Dataset:** 126 epigenetic datasets including:
-- ChIP-seq (histone modifications: activating and repressive marks)
+- ChIP-seq (histone modifications: activating and repressive marks,CTCF)
 - ATAC-seq (chromatin accessibility)
 - DNA methylation
 - RNAseq
-
----
-
-## Tools & Software
-
-| Tool | Usage |
-|------|-------|
-| [nf-core](https://nf-co.re/) | Pipeline framework for read processing and alignment |
-| [MACS2](https://github.com/macs3-project/MACS) | Peak calling for ChIP-seq and ATAC-seq |
-| [HOMER](http://homer.ucsd.edu/homer/) | Motif analysis, peak annotation |
-| [deepTools](https://deeptools.readthedocs.io/) | BAM/bigWig processing, QC, signal visualization |
-| [ROSE](https://bitbucket.org/young_computation/rose) | Super-enhancer identification |
-| [MEME Suite](https://meme-suite.org/) | Transcription factor motif discovery and enrichment |
-
+  
+**Data Availibilty:**
+- NCBI BioProject: PRJEB51699
+- UCSC Genome Broswer: https://genome.ucsc.edu/s/mkapoor/susScr11
+- FAANG Track Hub Broswer: https://api.faang.org/files/trackhubs/susScr11_sorted_cell/hub.txt
 ---
 
 ## Setup
