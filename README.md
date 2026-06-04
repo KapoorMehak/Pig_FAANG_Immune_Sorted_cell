@@ -1,6 +1,5 @@
 # Porcine Immune Cell Epigenomic Atlas
 
-A comprehensive pipeline for epigenomic atlas of porcine immune cells, integrating 126 epigenetic datasets across eight sorted immune cell populations.
 This study presents a comprehensive epigenomic characterization of the regulatory elements controlling gene expression within major immune cell types circulating in healthy pigs. By integrating 126 epigenomic datasets across eight sorted immune cell populations, we provide a detailed catalogue of predicted chromatin states and cell-type-specific regulatory elements integrated using ChIP-seq (histone modifications), ATAC-seq, and DNA methylation data to characterize the regulatory landscape of porcine immune cells at high resolution.This work directly contributes to using genomic data to describe and improve phenomics in agriculture and extends the value of the domestic pig as a model for human immunity.
 
 Key findings:
