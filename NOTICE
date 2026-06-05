@@ -1,0 +1,86 @@
+# NOTICE
+
+This repository contains original work by Mehak Kapoor, licensed under the MIT License.
+See LICENSE for details.
+
+This pipeline makes use of the following third-party tools and software.
+Their respective licenses are listed below.
+
+---
+
+## HOMER
+**Source:** http://homer.ucsd.edu/homer/  
+**License:** Free for academic and non-profit use  
+**Notice:** HOMER is freely available for academic use. Commercial users should contact the authors.  
+http://homer.ucsd.edu/homer/introduction/license.html
+
+---
+
+## ROSE (Rank Ordering of Super-Enhancers)
+**Source:** https://bitbucket.org/young_computation/rose  
+**License:** MIT License  
+**Notice:** Copyright (c) Young Lab, Whitehead Institute. Permission is hereby granted, free of charge,
+to any person obtaining a copy of this software to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, subject to the MIT License conditions.
+
+---
+
+## deepTools
+**Source:** https://github.com/deeptools/deepTools  
+**License:** MIT License  
+**Notice:** Copyright (c) Bioinformatics Unit, Max Planck Institute for Immunobiology and Epigenetics.
+Licensed under the MIT License.  
+https://github.com/deeptools/deepTools/blob/master/LICENSE.txt
+
+---
+
+## MACS2 (Model-based Analysis of ChIP-Seq)
+**Source:** https://github.com/macs3-project/MACS  
+**License:** BSD 3-Clause License  
+**Notice:** Copyright (c) Tao Liu. Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the conditions of the BSD 3-Clause License are met.  
+https://github.com/macs3-project/MACS/blob/master/LICENSE
+
+---
+
+## MEME Suite
+**Source:** https://meme-suite.org/  
+**License:** Free for non-commercial use  
+**Notice:** The MEME Suite is freely available for non-commercial use. Commercial users should contact
+the University of Nevada, Reno for licensing.  
+https://meme-suite.org/meme/doc/copyright.html
+
+---
+
+## bedtools
+**Source:** https://github.com/arq5x/bedtools2  
+**License:** MIT License  
+**Notice:** Copyright (c) Aaron Quinlan. Licensed under the MIT License.  
+https://github.com/arq5x/bedtools2/blob/master/LICENSE
+
+---
+
+## nf-core
+**Source:** https://github.com/nf-core/tools  
+**License:** MIT License  
+**Notice:** Copyright (c) nf-core contributors. Licensed under the MIT License.  
+https://github.com/nf-core/tools/blob/master/LICENSE
+
+---
+
+## R (Statistical Computing)
+**Source:** https://www.r-project.org/  
+**License:** GPL-2 / GPL-3  
+**Notice:** R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under the terms of the GNU General Public License.  
+https://www.r-project.org/Licenses/
+
+---
+
+## Bioconductor Packages
+**Source:** https://www.bioconductor.org/  
+**License:** Varies by package (typically MIT, GPL, or Artistic License)  
+**Notice:** Individual Bioconductor packages are governed by their own licenses.
+Please refer to each package's documentation for specific license terms.  
+https://www.bioconductor.org/about/license/
+EOF
