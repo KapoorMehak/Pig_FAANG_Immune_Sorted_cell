@@ -5,78 +5,61 @@ This pipeline makes use of the following third-party tools and software.The lice
 ---
 
 ## HOMER
-**Source:** http://homer.ucsd.edu/homer/  
-**License:** Free for academic and non-profit use  
-**Notice:** HOMER is freely available for academic use. Commercial users should contact the authors.  
-http://homer.ucsd.edu/homer/introduction/license.html
+Source: http://homer.ucsd.edu/homer/  
+License: GPL-3.0
+Notice: Copyright (C) 2025 QXIP BV
 
 ---
 
 ## ROSE (Rank Ordering of Super-Enhancers)
-**Source:** https://bitbucket.org/young_computation/rose  
-**License:** MIT License  
-**Notice:** Copyright (c) Young Lab, Whitehead Institute. Permission is hereby granted, free of charge,
-to any person obtaining a copy of this software to use, copy, modify, merge, publish, distribute,
-sublicense, and/or sell copies of the Software, subject to the MIT License conditions.
-
+Source:https://bitbucket.org/young_computation/rose  
+License: MIT License  
+Notice: Copyright (c) 2020 Young Lab
 ---
 
 ## deepTools
-**Source:** https://github.com/deeptools/deepTools  
-**License:** MIT License  
-**Notice:** Copyright (c) Bioinformatics Unit, Max Planck Institute for Immunobiology and Epigenetics.
-Licensed under the MIT License.  
-https://github.com/deeptools/deepTools/blob/master/LICENSE.txt
+Source: https://github.com/deeptools/deepTools  
+License: MIT License  
+Notice: Copyright 2019 Max Planck Institute for Immunobiology and Epigenetics
 
 ---
 
 ## MACS2 (Model-based Analysis of ChIP-Seq)
-**Source:** https://github.com/macs3-project/MACS  
-**License:** BSD 3-Clause License  
-**Notice:** Copyright (c) Tao Liu. Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the conditions of the BSD 3-Clause License are met.  
-https://github.com/macs3-project/MACS/blob/master/LICENSE
+Source:https://github.com/macs3-project/MACS  
+License: BSD 3-Clause License  
+Notice: Copyright (c) 2013, Tao Liu lab at UB and Xiaole Shirley Liu lab at DFCI
 
 ---
 
 ## MEME Suite
-**Source:** https://meme-suite.org/  
-**License:** Free for non-commercial use  
-**Notice:** The MEME Suite is freely available for non-commercial use. Commercial users should contact
-the University of Nevada, Reno for licensing.  
-https://meme-suite.org/meme/doc/copyright.html
+Source: https://meme-suite.org/  
+License: Free for non-commercial use  
+Notice:  Copyright  (c)  1994-2015  The  Regents  of the  University of California.
 
 ---
 
 ## bedtools
-**Source:** https://github.com/arq5x/bedtools2  
-**License:** MIT License  
-**Notice:** Copyright (c) Aaron Quinlan. Licensed under the MIT License.  
-https://github.com/arq5x/bedtools2/blob/master/LICENSE
+Source: https://github.com/arq5x/bedtools2  
+License: MIT License  
+Notice: Copyright (c) 2009-2019 Aaron Quinlan
 
 ---
 
 ## nf-core
-**Source:** https://github.com/nf-core/tools  
-**License:** MIT License  
-**Notice:** Copyright (c) nf-core contributors. Licensed under the MIT License.  
-https://github.com/nf-core/tools/blob/master/LICENSE
+Source: https://github.com/nf-core/tools  
+License: MIT License  
+Notice: Copyright (c) 2018 nf-coreE
 
 ---
 
 ## R (Statistical Computing)
-**Source:** https://www.r-project.org/  
-**License:** GPL-2 / GPL-3  
-**Notice:** R is free software and comes with ABSOLUTELY NO WARRANTY.
-You are welcome to redistribute it under the terms of the GNU General Public License.  
-https://www.r-project.org/Licenses/
+Source: https://www.r-project.org/  
+License: GPL-2 / GPL-3  
+Notice:  Copyright (C) 2007 Free Software Foundation
 
 ---
 
 ## Bioconductor Packages
-**Source:** https://www.bioconductor.org/  
-**License:** Varies by package (typically MIT, GPL, or Artistic License)  
-**Notice:** Individual Bioconductor packages are governed by their own licenses.
-Please refer to each package's documentation for specific license terms.  
-https://www.bioconductor.org/about/license/
-EOF
+Source: https://www.bioconductor.org/  
+License: GNU License 
+Notice:  Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
