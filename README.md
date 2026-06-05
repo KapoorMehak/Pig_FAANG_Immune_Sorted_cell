@@ -17,7 +17,7 @@ Key findings:
 | `1_read_processing` | QC, trimming, alignment, and peak calling for ChIP-seq, ATAC-seq, and DNA methylation data |
 | `2_TAD_prediction` | Topologically associating domain boundary prediction across immune cell types |
 | `3_chromatin_state_prediction` | Genome segmentation into 15 chromatin states using HMM |
-| `4_enhancer_target_prediction` | Linking enhancers to putative target genes using activity correlation and 3D chromatin data |
+| `4_enhancer_target_prediction` | Linking enhancers to putative target genes |
 | `5_identify_cell_specific_REs` | Identification of cell-type-specific regulatory elements (csREs) across eight immune populations |
 | `6_superEnhancer_prediction` | Super-enhancer, annotation, and TF motif enrichment analysis |
 | `7_GWAS_eQTL_integration` | Enrichment of csREs for PigGTEx eQTLs and immune trait GWAS variants |
