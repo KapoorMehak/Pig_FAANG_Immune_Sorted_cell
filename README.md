@@ -1,10 +1,10 @@
 # Porcine Immune Cell Epigenomic Atlas
 
-This study presents a comprehensive epigenomic characterization of the regulatory elements controlling gene expression within major immune cell types circulating in healthy pigs. By integrating 126 epigenomic datasets across nine sorted immune cell populations, we provide a detailed catalogue of predicted chromatin states and cell-type-specific regulatory elements integrated using ChIP-seq (histone modifications), ATAC-seq, RNA-seq and DNA methylation(WGBS) data to characterize the regulatory landscape of porcine immune cells at high resolution.This work directly contributes to using genomic data to describe and improve phenomics in agriculture and extends the value of the domestic pig as a model for human immunity.
+This study presents a comprehensive epigenomic characterization of the regulatory elements controlling gene expression across major immune cell types circulating in healthy pigs. By integrating 126 epigenomic datasets across nine sorted immune cell populations, we provide a detailed catalogue of predicted chromatin states and cell-type-specific regulatory elements(csREs) integrated using ChIP-seq (histone modifications), ATAC-seq, RNA-seq and DNA methylation(WGBS) defining >384,000 csREs data to characterize the regulatory landscape of porcine immune cells at high resolution. This work directly contributes to using genomic data to describe and improve phenomics in agriculture and extends the value of the domestic pig as a model for human immunity.
 
 Key findings:
 - Identification of **15 chromatin states** across immune cell types
-- Identification of **cell-type-specific regulatory elements (csREs)**
+- Identification of **>384,000 cell-type-specific regulatory elements (csREs)**
 - Prediction of **870 celltype-specific super-enhancers** enriched for lineage-defining transcription factor motifs
 - Integration with **PigGTEx eQTL** data and immune capacity trait GWAS variants
 - **Comparative epigenomics** revealing conserved chromatin states between pig and human immune cells
@@ -21,7 +21,8 @@ Key findings:
 | `5_identify_cell_specific_REs` | Identification of cell-type-specific regulatory elements (csREs) across eight immune populations |
 | `6_superEnhancer_prediction` | Super-enhancer, annotation, and TF motif enrichment analysis |
 | `7_GWAS_eQTL_integration` | Enrichment of csREs for PigGTEx eQTLs and immune trait GWAS variants |
-| `8_comparative_epigenomics_analyses` | Cross-species comparison of chromatin states between porcine and human immune cells |
+| `8_mapping_&_colocalization` | ieQTL mapping and colocalization with GWAS |
+| `9_comparative_epigenomics_analyses` | Cross-species comparison of chromatin states between porcine and human immune cells |
 
 ---
 
