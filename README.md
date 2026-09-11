@@ -21,7 +21,7 @@ Key findings:
 | `5_identify_cell_specific_REs` | Identification of cell-type-specific regulatory elements (csREs) across eight immune populations |
 | `6_superEnhancer_prediction` | Super-enhancer, annotation, and TF motif enrichment analysis |
 | `7_GWAS_eQTL_integration` | Enrichment of csREs for PigGTEx eQTLs and immune trait GWAS variants |
-| `8_mapping_&_colocalization` | ieQTL mapping and colocalization with GWAS |
+| `8_ieQTL_mapping_&_colocalization` | ieQTL mapping and colocalization with GWAS |
 | `9_comparative_epigenomics_analyses` | Cross-species comparison of chromatin states between porcine and human immune cells |
 
 ---
