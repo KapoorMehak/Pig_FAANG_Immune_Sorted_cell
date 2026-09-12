@@ -42,6 +42,7 @@ Key findings:
 - NCBI BioProject: PRJEB51699
 - UCSC Genome Broswer: https://genome.ucsc.edu/s/mkapoor/susScr11
 - FAANG Track Hub Broswer: https://api.faang.org/files/trackhubs/susScr11_sorted_cell/hub.txt
+- Scripts deposited at Zenodo URL: https://doi.org/10.5281/zenodo.22730016
 ---
 
 ## Setup
